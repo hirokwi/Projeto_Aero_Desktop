@@ -1,2 +1,5 @@
 # Projeto_Aero_Desktop
-Projeto do curso de Desenvolvimento de Sistemas voltado ao cadastro e ao gerenciamento de um aeroporto funcional, desenvolvido em Node.js e utilizando operações CRUD em banco de dados. Essa é a versão para desktop, com o forms do Visual Studio (c#).
+Projeto desenvolvido no curso de Desenvolvimento de Sistemas, com foco no cadastro e gerenciamento de um aeroporto funcional.
+O sistema utiliza operações CRUD para manipulação dos dados e foi pensado para simular um ambiente real de gerenciamento aeroportuário.
+
+Esta é a versão desktop do projeto, desenvolvida em C# utilizando Windows Forms no Visual Studio, com integração a banco de dados para armazenamento e controle das informações.
